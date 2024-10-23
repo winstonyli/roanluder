@@ -1,0 +1,11 @@
+beautifulsoup4
+dataclasses-json
+firebase-admin>=6.5.0
+firebase-functions>=0.4.2
+lolstaticdata @ git+https://github.com/meraki-analytics/lolstaticdata@831b7a5c4d06e95385e1764870667b14ec9ee504
+lxml
+natsort
+requests
+slpp
+thefuzz
+stringcase
